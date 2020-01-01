@@ -1,0 +1,4 @@
+client_secret    =   /.reDFnWwA?aMDpa6N:gNvYkMH0cxp32
+client_id        =   fe90ce02-8218-4db6-9946-f3ebc3307e9f
+tennant_id       =   4a06d40c-e447-42be-baef-dd0421ed10bd
+subscription_id  =   c452ab6c-4d2f-4e74-8543-c90f20590b8e
