@@ -2,3 +2,26 @@ client_secret    =   /.reDFnWwA?aMDpa6N:gNvYkMH0cxp32
 client_id        =   fe90ce02-8218-4db6-9946-f3ebc3307e9f
 tennant_id       =   4a06d40c-e447-42be-baef-dd0421ed10bd
 subscription_id  =   c452ab6c-4d2f-4e74-8543-c90f20590b8e
+
+
+{
+  "appId": "f520de5b-8c3f-463c-b574-c0478c1e041d",
+  "displayName": "CAT",
+  "name": "http://CAT",
+  "password": "0da5305c-dddf-489d-ae64-a091bc892926",
+  "tenant": "4a06d40c-e447-42be-baef-dd0421ed10bd"
+}
+
+export ARM_SUBSCRIPTION_ID=c452ab6c-4d2f-4e74-8543-c90f20590b8e
+export ARM_CLIENT_ID=f520de5b-8c3f-463c-b574-c0478c1e041d
+export ARM_SECRET_SECRET=0da5305c-dddf-489d-ae64-a091bc892926
+export ARM_TENANT_ID=4a06d40c-e447-42be-baef-dd0421ed10bd
+
+
+PS /Users/christo/devops/Learning_DevOps/CHAP04/templates> $plainPassword
+0b204bbb-85b7-4bb3-a181-2474423f29f1
+PS /Users/christo/devops/Learning_DevOps/CHAP04/templates> $sp.ApplicationId
+
+Guid
+----
+514689e4-8fa8-4494-a7a0-b00148639aed
